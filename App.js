@@ -1,7 +1,6 @@
 import { StyleSheet, Text, View, ScrollView, TextInput, Pressable, Button } from 'react-native';
 import { useState,useEffect } from 'react';
 import database from '@react-native-firebase/database';
-import firebase from '@react-native-firebase/app';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Checkbox } from 'react-native-paper';
 
